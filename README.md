@@ -1,7 +1,7 @@
 # Sugarcane dataviz
-This is a data visualization project about sugarcane and sugar production in the world, using data from [FAOSTAT](https://www.fao.org/faostat/en/#home). It was inpired by the table [Our Cultivated Planet, created by Benjamin Nowak (@BjnNowak)](https://github.com/BjnNowak/CultivatedPlanet). <br>
-This report contains information about the cultivation of sugarcane, a crop that is very important to the brazilian economy, and that was part of many of my research projects. It also includes one visualization about the trade of sugar, which comes both from sugarcane and sugar beet. <br>
-The R codes, data used, and the final images ara available in this repository. 
+This is a data visualization project about sugarcane and sugar production in the world, using data from [FAOSTAT](https://www.fao.org/faostat/en/#home). It was inspired by the table [Our Cultivated Planet, created by Benjamin Nowak (@BjnNowak)](https://github.com/BjnNowak/CultivatedPlanet). <br>
+This report contains information about the cultivation of sugarcane, a crop that is very important to the Brazilian economy, and that was part of many of my research projects. It also includes one visualization about the trade of sugar, which comes both from sugarcane and sugar beet. <br>
+The R codes, data used, and the final images are available in this repository. 
 
 # Sugarcane production
 ![Sugarcane production](https://github.com/afs77/sugarcane_dataviz/blob/main/final_visualizations/sugarcane_final.jpg?raw=true)
