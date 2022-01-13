@@ -5,7 +5,8 @@ The R codes, data used, and the final images are available in this repository.
 
 # Sugarcane production
 ![Sugarcane production](https://github.com/afs77/sugarcane_dataviz/blob/main/final_visualizations/sugarcane_final.jpg?raw=true)
-The code is in the sugarcane.R file, [here in the code folder](https://github.com/afs77/sugarcane_dataviz/tree/main/code)
+The code is in the sugarcane.R file, [here in the code folder](https://github.com/afs77/sugarcane_dataviz/tree/main/code) <br>
+A version of this code for the same visualization but in portuguese is also available in the file canadeacucar_portugues.R, in the code folder. The final image in portuguese is the file canadeacucar_pt.pdf in the folder final_visualizations. 
 
 # Sugar trade
 ![Sugar trade](https://github.com/afs77/sugarcane_dataviz/blob/main/final_visualizations/sugar_trade.jpg?raw=true)
